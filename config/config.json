@@ -1,0 +1,8 @@
+{
+    "rpc_url": "https://api.mainnet-beta.solana.com",
+    "wallet_addresses": [
+        "WALLET_ADDRESS_1",
+        "WALLET_ADDRESS_2"
+    ],
+    "output_path": "transactions.json"
+}
